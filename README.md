@@ -17,5 +17,5 @@ npm install nodemon
 4. Rodar a aplicação:
 ```js 
 npm run inicio
-npm run inicio
+node index
 ```
